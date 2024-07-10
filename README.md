@@ -1,2 +1,3 @@
 # food4all
 Submission Idea for Hack4Bengal Hackathon 3.0
+Our submission to the Hack4Bengal Hackathon 2024 addresses the pressing issue of food wastage in restaurants and hotels. Often, surplus food items such as vegetables, fruits, and other edibles are discarded, leading to significant waste. Our project proposes a solution in the form of a web application where restaurants and hotels can list their excess food items. NGOs can then connect with these establishments to collect and distribute the surplus food to the poor and needy. This initiative aims to improve food waste management and help those in need.
